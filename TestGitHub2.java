@@ -6,7 +6,7 @@ public class TestGitHub2 {
  
     public static void main(String[] args) {
         try{
-        foo(5);}
+        foo(-1);}
         catch(CheckExc ce){
             System.out.println("Checked exception");
         }
